@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # CampusEats
 
@@ -8,3 +9,7 @@
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
   
+=======
+# CampusEats
+fitz
+>>>>>>> a29c521fb0aa236e19dc215e1edb98a0836f53ad
