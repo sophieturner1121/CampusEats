@@ -1,0 +1,29 @@
+.googleLogoIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.continueWithGoogle {
+  position: relative;
+  font-weight: 500;
+}
+.continueWithGoogleLeftAl {
+  position: absolute;
+  top: 339px;
+  left: 89px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.08), 0 2px 3px rgba(0, 0, 0, 0.17);
+  width: 345px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini);
+  box-sizing: border-box;
+  gap: var(--gap-mini);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,333 @@
+.breakfast2Child {
+  position: absolute;
+  top: 391px;
+  left: 237px;
+  background-color: var(--color-white);
+  box-shadow: 0 6.7px 5.33px rgba(0, 0, 0, 0.25);
+  width: 418px;
+  height: 190px;
+}
+.citUCafeteria {
+  position: absolute;
+  top: 160px;
+  left: 145px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-bubblegum-sans);
+  color: var(--color-firebrick);
+  display: inline-block;
+  width: 488px;
+  height: 70px;
+}
+.div,
+.lamehNgaPalabok,
+.palabok {
+  position: absolute;
+  top: 416px;
+  left: 222px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 182px;
+  height: 93px;
+}
+.div,
+.lamehNgaPalabok {
+  top: 526px;
+  left: 219px;
+  font-size: var(--font-size-13xl);
+  width: 184px;
+  height: 95px;
+}
+.lamehNgaPalabok {
+  top: 447px;
+  left: 249px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  height: 94px;
+}
+.image67Icon {
+  position: absolute;
+  top: 394px;
+  left: 464.7px;
+  border-radius: 13.33px;
+  width: 177.7px;
+  height: 170.7px;
+  object-fit: cover;
+}
+.breakfast2Item {
+  position: absolute;
+  top: 395px;
+  left: 1161px;
+  background-color: var(--color-white);
+  box-shadow: 0 6.7px 5.33px rgba(0, 0, 0, 0.25);
+  width: 418px;
+  height: 186px;
+}
+.div1,
+.meatroll,
+.soMeatty {
+  position: absolute;
+  top: 423px;
+  left: 1145px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 183px;
+  height: 95px;
+}
+.div1,
+.soMeatty {
+  top: 526px;
+  left: 1129px;
+  font-size: var(--font-size-13xl);
+}
+.soMeatty {
+  top: 451px;
+  left: 1135px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  width: 182px;
+  height: 24px;
+}
+.image72Icon {
+  position: absolute;
+  top: 404px;
+  left: 1374.7px;
+  border-radius: 13.33px;
+  width: 183.7px;
+  height: 171.7px;
+  object-fit: cover;
+}
+.breakfast2Inner {
+  position: absolute;
+  top: 620px;
+  left: 240px;
+  background-color: var(--color-white);
+  box-shadow: 0 6.7px 5.33px rgba(0, 0, 0, 0.25);
+  width: 417px;
+  height: 191px;
+}
+.batchoy,
+.div2,
+.masHotPa {
+  position: absolute;
+  top: 649px;
+  left: 223px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 182px;
+  height: 94px;
+}
+.div2,
+.masHotPa {
+  top: 760px;
+  left: 214px;
+  font-size: var(--font-size-13xl);
+  width: 183px;
+}
+.masHotPa {
+  top: 676px;
+  left: 246px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  width: 182px;
+  height: 24px;
+}
+.groupChild,
+.image63Icon {
+  position: absolute;
+  border-radius: 13.33px;
+}
+.image63Icon {
+  top: 634px;
+  left: 458.7px;
+  width: 183.7px;
+  height: 170.7px;
+  object-fit: cover;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  background-color: var(--color-firebrick-100);
+  width: 119.1px;
+  height: 47.6px;
+}
+.all {
+  position: absolute;
+  top: 4.2px;
+  left: 27.2px;
+  display: inline-block;
+  width: 63px;
+  height: 33.5px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 285px;
+  left: 742px;
+  width: 119.1px;
+  height: 47.6px;
+  cursor: pointer;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 13.33px;
+  background-color: var(--color-firebrick-200);
+  width: 456.8px;
+  height: 48.8px;
+  mix-blend-mode: normal;
+}
+.searchMealHere {
+  position: absolute;
+  top: 10.7px;
+  left: 55.9px;
+  display: inline-block;
+  width: 160.4px;
+  height: 26.2px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 283px;
+  left: 240px;
+  width: 456.8px;
+  height: 48.8px;
+  font-size: 21.33px;
+  color: var(--color-white);
+}
+.image10Icon {
+  position: absolute;
+  top: 289px;
+  left: 248.5px;
+  width: 42.5px;
+  height: 36.9px;
+  object-fit: cover;
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 13.33px;
+  background-color: var(--color-firebrick-100);
+  width: 119.1px;
+  height: 47.6px;
+  cursor: pointer;
+}
+.breakfast {
+  position: absolute;
+  top: 6.2px;
+  left: 3.9px;
+  display: inline-block;
+  width: 111px;
+  height: 38.4px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 285.4px;
+  left: 894.1px;
+  width: 119.1px;
+  height: 47.6px;
+  color: var(--color-white);
+}
+.lunch {
+  position: absolute;
+  top: 5.2px;
+  left: 10.5px;
+  display: inline-block;
+  width: 98px;
+  height: 40.4px;
+}
+.groupDiv {
+  position: absolute;
+  top: 285.4px;
+  left: 1065.4px;
+  width: 119.1px;
+  height: 47.6px;
+  cursor: pointer;
+}
+.snacks {
+  position: absolute;
+  top: 5.2px;
+  left: 12.7px;
+  display: inline-block;
+  width: 94px;
+  height: 31.5px;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 285.4px;
+  left: 1245.2px;
+  width: 119.1px;
+  height: 47.6px;
+  cursor: pointer;
+}
+.drinks {
+  position: absolute;
+  top: 7.6px;
+  left: 17px;
+  display: inline-block;
+  width: 85px;
+  height: 30.5px;
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 283px;
+  left: 1429.9px;
+  width: 119.1px;
+  height: 47.6px;
+  cursor: pointer;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 131px;
+}
+.campuseatsIcon,
+.image30Icon {
+  position: absolute;
+  top: 40px;
+  left: 213px;
+  width: 250px;
+  height: 50px;
+}
+.image30Icon {
+  top: 13px;
+  left: 121px;
+  width: 83.9px;
+  height: 85px;
+  object-fit: cover;
+}
+.frameIcon {
+  position: absolute;
+  top: 42px;
+  left: 1530px;
+  width: 29px;
+  height: 28px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.image80Icon,
+.image81Icon {
+  position: absolute;
+  top: 42px;
+  left: 1604px;
+  width: 35px;
+  height: 27px;
+  object-fit: cover;
+}
+.image81Icon {
+  top: 39px;
+  left: 1685px;
+  height: 33px;
+}
+.breakfast2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1647px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 26.67px;
+  color: var(--color-black);
+  font-family: var(--font-buenard);
+}

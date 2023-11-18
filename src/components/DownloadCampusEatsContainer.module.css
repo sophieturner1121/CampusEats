@@ -1,0 +1,80 @@
+.downloadCampuseatsChild {
+  position: absolute;
+  top: 0;
+  left: 13px;
+  border-radius: var(--br-21xl);
+  width: 1062.3px;
+  height: 378.4px;
+}
+.downloadCampuseats1,
+.getAheadOf {
+  position: absolute;
+  top: 28.3px;
+  left: 0;
+  display: inline-block;
+  width: 764.9px;
+  height: 139.7px;
+}
+.getAheadOf {
+  top: 155px;
+  left: 42.2px;
+  font-size: var(--font-size-16xl);
+  width: 604.3px;
+  height: 142.1px;
+}
+.image103 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 265.8px;
+  left: 815.3px;
+  border-radius: var(--br-xl);
+  width: 199.7px;
+  height: 58.6px;
+  background-image: url(/public/image103@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image107Icon {
+  position: absolute;
+  top: 246px;
+  left: 661px;
+  width: 140px;
+  height: 98px;
+  object-fit: cover;
+}
+.image100,
+.image99 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 67.9px;
+  left: 815.3px;
+  width: 199.7px;
+  height: 63.8px;
+  background-image: url(/public/image99@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image100 {
+  top: 168px;
+  height: 61.5px;
+  background-image: url(/public/image100@2x.png);
+}
+.downloadCampuseats {
+  position: absolute;
+  top: 1764px;
+  left: 425px;
+  width: 1070px;
+  height: 367.7px;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-buenard);
+}

@@ -1,0 +1,112 @@
+.or,
+.signUpOr,
+.welcomeToCampuseats {
+  position: absolute;
+  top: 99px;
+  left: 255px;
+  display: inline-block;
+  width: 490px;
+  height: 126px;
+}
+.or,
+.welcomeToCampuseats {
+  top: 339px;
+}
+.welcomeToCampuseats {
+  top: 26px;
+  left: 261px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-bubblegum-sans);
+  width: 479px;
+  height: 117px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-firebrick);
+  width: 304px;
+  height: 54px;
+}
+.signUp {
+  position: absolute;
+  top: 10px;
+  left: 76px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-bubblegum-sans);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 151px;
+  height: 44px;
+}
+.groupItem,
+.rectangleParent {
+  position: absolute;
+  width: 304px;
+  height: 54px;
+}
+.rectangleParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 425px;
+  left: 579px;
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-firebrick);
+  box-sizing: border-box;
+}
+.logIn {
+  position: absolute;
+  top: 8px;
+  left: 97px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-bubblegum-sans);
+  color: var(--color-firebrick);
+  text-align: center;
+  display: inline-block;
+  width: 109px;
+  height: 37px;
+}
+.frameIcon,
+.rectangleGroup {
+  position: absolute;
+  cursor: pointer;
+}
+.rectangleGroup {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 246px;
+  left: 579px;
+  width: 304px;
+  height: 54px;
+}
+.frameIcon {
+  top: 27px;
+  left: 918px;
+  width: 58px;
+  height: 58px;
+  overflow: hidden;
+}
+.logInSignUp {
+  position: relative;
+  border-radius: 67.36px;
+  background-color: var(--color-gray-100);
+  width: 1000px;
+  height: 600px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-buenard);
+}

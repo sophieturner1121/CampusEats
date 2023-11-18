@@ -1,0 +1,52 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 25.8px;
+  background-color: var(--color-white);
+  box-shadow: 0 6.7px 5.33px rgba(0, 0, 0, 0.25);
+  width: 417.2px;
+  height: 190.7px;
+}
+.div,
+.hotcake,
+.masHotPa {
+  position: absolute;
+  top: 28px;
+  left: 4.5px;
+  display: inline-block;
+  width: 182.8px;
+  height: 94.2px;
+}
+.div,
+.masHotPa {
+  top: 135.7px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+}
+.masHotPa {
+  top: 60.6px;
+  left: 33.6px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  height: 23.6px;
+}
+.image65Icon {
+  position: absolute;
+  top: 15.7px;
+  left: 242.5px;
+  border-radius: 13.33px;
+  width: 188.2px;
+  height: 173.7px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 390.7px;
+  left: 678.3px;
+  width: 443px;
+  height: 229.9px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-buenard);
+}

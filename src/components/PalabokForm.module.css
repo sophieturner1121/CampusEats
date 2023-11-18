@@ -1,0 +1,56 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 18px;
+  background-color: var(--color-white);
+  box-shadow: 0 6.7px 5.33px rgba(0, 0, 0, 0.25);
+  width: 418px;
+  height: 190px;
+  cursor: pointer;
+}
+.div,
+.lamehNgaPalabok,
+.palabok {
+  position: absolute;
+  top: 25px;
+  left: 3px;
+  display: inline-block;
+  width: 182px;
+  height: 93px;
+}
+.div,
+.lamehNgaPalabok {
+  top: 135px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  width: 184px;
+  height: 95px;
+}
+.lamehNgaPalabok {
+  top: 56px;
+  left: 30px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  height: 94px;
+}
+.image67Icon {
+  position: absolute;
+  top: 3px;
+  left: 245.7px;
+  border-radius: 13.33px;
+  width: 177.7px;
+  height: 170.7px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 391px;
+  left: 219px;
+  width: 436px;
+  height: 230px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-buenard);
+}

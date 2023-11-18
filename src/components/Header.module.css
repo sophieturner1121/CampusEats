@@ -1,0 +1,71 @@
+.navbarChild,
+.rectangle14Stroke {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 131px;
+}
+.rectangle14Stroke {
+  width: 110px;
+  height: 50px;
+  cursor: pointer;
+}
+.signUpIcon {
+  position: absolute;
+  top: 12.9px;
+  left: 13.9px;
+  width: 82.3px;
+  height: 29.7px;
+}
+.rectangle14StrokeParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 36px;
+  left: 1638px;
+  width: 110px;
+  height: 50px;
+}
+.campuseatsIcon,
+.image30Icon {
+  position: absolute;
+  top: 40px;
+  left: 213px;
+  width: 250px;
+  height: 50px;
+}
+.image30Icon {
+  top: 13px;
+  left: 121px;
+  width: 83.9px;
+  height: 85px;
+  object-fit: cover;
+}
+.logInIcon {
+  position: absolute;
+  top: 12.7px;
+  left: 20.1px;
+  width: 69.9px;
+  height: 30px;
+}
+.rectangle13StrokeParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 36px;
+  left: 1450px;
+  width: 110px;
+  height: 50px;
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 111px;
+}

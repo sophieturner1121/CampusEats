@@ -1,0 +1,30 @@
+.facebookLogoIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.continueWithFacebook {
+  position: relative;
+}
+.continueWithFacebookLeft {
+  position: absolute;
+  top: 236px;
+  left: 89px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+  width: 345px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini);
+  box-sizing: border-box;
+  gap: var(--gap-mini);
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-helvetica);
+}
