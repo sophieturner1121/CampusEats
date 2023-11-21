@@ -32,4 +32,55 @@ public class FoodEntity {
     public FoodEntity() {
         super();
     }
+
+    public FoodEntity(int id, String foodName, double price, String description, byte[] image) {
+        super();
+        this.id = id;
+        this.foodName = foodName;
+        this.price = price;
+        this.description = description;
+        this.image = image;
+    }
+
+    // Getters and setters for all fields
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getFoodName() {
+        return foodName;
+    }
+
+    public void setFoodName(String foodName) {
+        this.foodName = foodName;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public byte[] getImage() {
+        return image;
+    }
+
+    public void setImage(byte[] image) {
+        this.image = image;
+    }
 }
+
