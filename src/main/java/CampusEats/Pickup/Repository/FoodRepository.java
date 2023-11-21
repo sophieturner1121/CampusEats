@@ -6,6 +6,7 @@ import CampusEats.Pickup.Entity.FoodEntity;
 
 @Repository
 public interface FoodRepository extends JpaRepository<FoodEntity, Integer> {
-  
+
+
     
 }
