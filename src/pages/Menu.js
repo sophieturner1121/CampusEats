@@ -193,9 +193,9 @@ const Menu = () => {
           </div>
           <img className="image-115-icon" alt="" src="/image-115@2x.png" />
         </div>
-        <img className="menu-child" alt="" src="/rectangle-11.svg" />
-        <img className="campuseats-icon" alt="" src="/campuseats1.svg" />
-        <img className="image-30-icon" alt="" src="/image-301@2x.png" />
+        <img className="menu-child" alt="" src="/rectangle11.svg" />
+        <img className="campuseats-icon" alt="" src="/campuseats.svg" />
+        <img className="image-30-icon" alt="" src="/image-30@2x.png" />
         <div className="jan-shaono">Jan Shaono</div>
         <button className="image-80" onClick={onImage80Click} />
         <button className="image-81" onClick={openCartPopup} />
